@@ -1,0 +1,7 @@
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\obj\Debug\loop_calc.csprojAssemblyReference.cache
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\obj\Debug\loop_calc.csproj.CoreCompileInputs.cache
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\bin\Debug\loop_calc.exe.config
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\bin\Debug\loop_calc.exe
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\bin\Debug\loop_calc.pdb
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\obj\Debug\loop_calc.exe
+C:\Users\tech-w100a\source\repos\loop_calc\loop_calc\obj\Debug\loop_calc.pdb
